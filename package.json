@@ -14,7 +14,6 @@
   ],
   "author": "oscar barajas <oscar@gndx.dev>",
   "license": "MIT",
-  "homepage": "https://github.com/gndx/js-portfolio#readme",
   "devDependencies": {
     "@babel/core": "^7.20.5",
     "@babel/plugin-transform-runtime": "^7.19.6",
